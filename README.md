@@ -25,7 +25,7 @@ No addition callings are allowed except *malloc*, *___error* or *errno_location*
 
 To complete this project successfully, you should understand, what type of problem we need to solve.<br>
 I personally recommend writing functions in the order they're listed above.<br><br>
-> By working on _*ft_write*_ and _*ft_read*_, you're dealing with syscalls, errno and how nasm code must be orginize.<br>
+> By working on _ft_write_** and _ft_read_**, you're dealing with syscalls, errno and how nasm code must be orginize.<br>
 > *_ft_strlen_* - how counter works, how to write loops and how to return values from functions <br>
 > _*ft_strcmp*_ - how to compare two blocks of memory, how to calculate <br>
 > _*ft_strcpy*_ - how to transfer values from one block of memory to another<br>
@@ -40,11 +40,11 @@ I personally recommend writing functions in the order they're listed above.<br><
 
 ### Useful links ###
 
-| *https://cs.lmu.edu/~ray/notes/nasmtutorial/*                                                             | first step in nasm                | <br>
-| *https://cs.brown.edu/courses/cs033/docs/guides/x64_cheatsheet.pdf*                                       | great cheatsheet                  | <br>
-| *https://www.cs.uaf.edu/2015/fall/cs301/lecture/09_25_structs.html*                                       | Data Structures in Assembly       | <br>
-| *https://github.com/HudsonSchumaker/x86_64-NASM/blob/master/macOS-nasm-codes.md*                          | NASM Assembler codes for macOS    | <br>
-| *https://learn.microsoft.com/en-us/cpp/build/x64-software-conventions?redirectedfrom=MSDN&view=msvc-170*  | calling convention                | <br>
+| *https://cs.lmu.edu/~ray/notes/nasmtutorial/*                                                             | first step in nasm                |
+| *https://cs.brown.edu/courses/cs033/docs/guides/x64_cheatsheet.pdf*                                       | great cheatsheet                  |
+| *https://www.cs.uaf.edu/2015/fall/cs301/lecture/09_25_structs.html*                                       | Data Structures in Assembly       |
+| *https://github.com/HudsonSchumaker/x86_64-NASM/blob/master/macOS-nasm-codes.md*                          | NASM Assembler codes for macOS    |
+| *https://learn.microsoft.com/en-us/cpp/build/x64-software-conventions?redirectedfrom=MSDN&view=msvc-170*  | calling convention                |
 
 ***
 
