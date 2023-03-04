@@ -41,6 +41,7 @@ I personally recommend writing functions in the order they're listed above.<br><
 
 ### Useful links ###
 
+ Links | About
  --- | ---
  *https://cs.lmu.edu/~ray/notes/nasmtutorial/*                                                             | first step in nasm                
  *https://cs.brown.edu/courses/cs033/docs/guides/x64_cheatsheet.pdf*                                       | great cheatsheet                  
