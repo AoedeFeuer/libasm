@@ -31,16 +31,17 @@ I personally recommend writing functions in the order they're listed above.<br><
 > -> ***ft_strcpy*** - how to transfer values from one block of memory to another<br>
 > -> ***ft_strdup*** - how to extern functions (ft_strlen, ft_strcpy, malloc), how to call functions (calling convention) <br>
 
-```
- ***ft_list_size*** - the only difference with ft_strlen is lenght of struct - <br>
- ***ft_list_push_front*** - how to work with pointers and how to malloc block of memory for struct<br>
- ***ft_list_remove_if***  - how to compare two blocks of memory and how to free block of memory <br>
- ***ft_list_sort*** - sort list with asm<br>
- ***ft_atoi_base*** - rewrite atoi base (deal with calculations)<br>
-```
+
+> -> ***ft_list_size*** - the only difference with ft_strlen is lenght of struct - <br>
+> -> ***ft_list_push_front*** - how to work with pointers and how to malloc block of memory for struct<br>
+> -> ***ft_list_remove_if***  - how to compare two blocks of memory and how to free block of memory <br>
+> -> ***ft_list_sort*** - sort list with asm<br>
+> -> ***ft_atoi_base*** - rewrite atoi base (deal with calculations)<br>
+
 
 ### Useful links ###
 
+ --- | ---
  *https://cs.lmu.edu/~ray/notes/nasmtutorial/*                                                             | first step in nasm                
  *https://cs.brown.edu/courses/cs033/docs/guides/x64_cheatsheet.pdf*                                       | great cheatsheet                  
  *https://www.cs.uaf.edu/2015/fall/cs301/lecture/09_25_structs.html*                                       | Data Structures in Assembly       
